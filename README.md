@@ -42,6 +42,7 @@ The following are a set of guides on prompt engineering developed by us. Guides 
 - [Prompt Engineering - Adversarial Prompting](/guides/prompts-adversarial.md)
 - [Prompt Engineering - Reliability](/guides/prompts-reliability.md)
 - [Prompt Engineering - Miscellaneous Topics](/guides/prompts-miscellaneous.md)
+- [Academic Prompt Toolkit for Software Engineering, AI & VR](/prompts/README.md)
 - [Prompt Engineering - Papers](/pages/papers.mdx)
 - [Prompt Engineering - Tools](/pages/tools.mdx)
 - [Prompt Engineering - Datasets](/pages/datasets.mdx) 
